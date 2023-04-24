@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work on EDGE Computing & IoT
+I'm currently work on EDGE Computing & IoT Platform Product Development
 
 
 ## 🌐 Socials:
